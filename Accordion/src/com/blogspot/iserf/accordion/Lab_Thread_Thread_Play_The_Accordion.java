@@ -1,8 +1,7 @@
-
 package com.blogspot.iserf.accordion;
 
-
 public class Lab_Thread_Thread_Play_The_Accordion {
+
     public static void main(String[] args) throws InterruptedException {
         for (int k = 0; k < 10; k++) {
             // A + B

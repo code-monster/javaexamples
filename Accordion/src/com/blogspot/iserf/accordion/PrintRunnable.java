@@ -1,7 +1,7 @@
-
 package com.blogspot.iserf.accordion;
 
 public class PrintRunnable implements Runnable {
+
     private String msg;
     private long sleepMillis;
 
